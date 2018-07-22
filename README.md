@@ -27,6 +27,9 @@ START  B M M E   B E   S END
 Where `<w>` and `</w>` are additional start and end markers.
 
 ## Usage
+First of all, install dependencies:
+```pip install -r requirements.txt```
+
 To run the experiment, let say, `1`, go into the root folder and run:
 ```
 python main.py --demo 1 --verbosity
