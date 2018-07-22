@@ -1,1 +1,4 @@
 output/demo_*
+.idea/*
+*__pycache__*
+*.pyc
