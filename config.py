@@ -1,4 +1,4 @@
-LIGHTWEIGHT_SETTING_FLAG = False
+LIGHTWEIGHT_SETTING_FLAG = True
 
 
 HW_DATA_TRAIN = "data/task1_data/training.eng.txt"
